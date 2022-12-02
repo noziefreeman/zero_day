@@ -1,1 +1,1 @@
-readme for ubuntu
+It prints the name of the core operating system
